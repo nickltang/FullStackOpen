@@ -1,5 +1,5 @@
-// Part 1C: Component state, event handlers
-// Link: https://fullstackopen.com/en/part1/component_state_event_handlers
+// Part 1D: A more complex state, debugging React apps
+// Link: https://fullstackopen.com/en/part1/a_more_complex_state_debugging_react_apps
 import { useState } from "react"
 
 const Statistics = (props) => {
